@@ -7,6 +7,7 @@ window._ = require('lodash');
 */
 
 window._ = require('bootstrap');
+window._ = require('admin-lte')
 
 window.axios = require('axios');
 
