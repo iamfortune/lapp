@@ -13,6 +13,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <title>AdminLTE 3 | Starter</title>
 
 <link rel="stylesheet" href="/css/app.css">
+
+<!-- Font Awesome Icons -->
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
